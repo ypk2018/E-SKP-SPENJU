@@ -1,0 +1,6 @@
+{
+  "name": "E-SKP SMP Negeri 7 Sentani",
+  "description": "Aplikasi Sasaran Kinerja Pegawai (SKP) dan Evaluasi Kinerja Guru & Kepala Sekolah SMP Negeri 7 Sentani berstandar PermenPAN-RB No. 6 Tahun 2022",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
